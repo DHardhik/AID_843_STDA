@@ -20,7 +20,7 @@ AID_843_STDA/
 │   ├── STDA_Assignment1_Report.pdf
 │   ├── Spatial_Stationarity_Heteroginity.ipynb
 │   ├── Dataset/
-│   │   └── Trees Dataset.csv
+│   └── Trees Dataset.csv
 │
 ├── Assignment 2/
 │   ├── Images Book1 and 2/
@@ -48,20 +48,25 @@ Each folder contains:
 
 ---
 
-## 📊 Dataset
+## 📊 Datasets Used
 
-We use the **Heart Disease and Stroke Mortality Dataset (1999–2019)**.
+### Assignment 1
+- Dataset: **Tree Dataset**
+- Description: Contains tree-related attributes used for spatial analysis and modelling.
+- Link: https://www.kaggle.com/datasets/yashdogra/treeseu
 
+### Assignment 2 & 3
+- Dataset: **Heart Disease and Stroke Mortality Dataset (1999–2019)**
 - Source: Kaggle  
-- Coverage: 3,000+ U.S. counties  
-- Time span: 1999 – 2019  
-- Metric: Age-standardised mortality rate (per 100,000)
+- Link: https://www.kaggle.com/datasets/irakozekelly/heart-disease-and-stroke-mortality-20002019
 
-🔗 Dataset Link:  
-https://www.kaggle.com/datasets/irakozekelly/heart-disease-and-stroke-mortality-20002019
+- Description:
+  - Covers 3,000+ U.S. counties
+  - Time span: 1999–2019
+  - Metric: Age-standardised mortality rate (per 100,000)
 
-As described in our report :contentReference[oaicite:0]{index=0}, the working dataset contains **64,737 county-year observations** after filtering.
-
+- Processed subset:
+  - ~64,737 county-year observations used after filtering
 ---
 
 ## 🧠 Project Overview
