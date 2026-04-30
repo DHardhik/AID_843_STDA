@@ -8,6 +8,12 @@ All three assignments (A1, A2, A3) are organised into separate folders.
 ---
 
 ## 📁 Repository Structure
+AID_843_STDA/
+│
+├── Assignment 1/
+├── Assignment 2/
+├── Assignment 3/
+└── README.md
 
 Each folder contains:
 - Code (Jupyter notebooks / scripts)
