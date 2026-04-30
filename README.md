@@ -8,13 +8,37 @@ All three assignments (A1, A2, A3) are organised into separate folders.
 ---
 
 ## 📁 Repository Structure
+```bash
 AID_843_STDA/
 │
 ├── Assignment 1/
+│   ├── AID 843 Programming Assignment...
+│   ├── Data_preprocessing.ipynb
+│   ├── LISA_Clustering_and_Correlation.ipynb
+│   ├── Regression_Models.ipynb
+│   ├── STDA Notebook.ipynb
+│   ├── STDA_Assignment1_Report.pdf
+│   ├── Spatial_Stationarity_Heteroginity.ipynb
+│   └── Trees Dataset.csv
+│
 ├── Assignment 2/
+│   ├── Images Book1 and 2/
+│   ├── Images Book Final/
+│   ├── A2_Project_Matrix_Report.pdf
+│   ├── STDA_A2_Book1.ipynb
+│   ├── STDA_A2_Book2.ipynb
+│   └── STDA_A2_Final.ipynb
+│
 ├── Assignment 3/
+│   ├── Images/
+│   ├── A3_Guidelines.pdf
+│   ├── STDA_A3_draft1.ipynb
+│   ├── STDA_A3_draft2_updated.ipynb
+│   ├── STDA_A3_understanding_dataset.ipynb
+│   └── STDA_Assignment_2.pdf
+│
 └── README.md
-
+```
 Each folder contains:
 - Code (Jupyter notebooks / scripts)
 - Intermediate outputs
