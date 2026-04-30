@@ -19,7 +19,8 @@ AID_843_STDA/
 │   ├── STDA Notebook.ipynb
 │   ├── STDA_Assignment1_Report.pdf
 │   ├── Spatial_Stationarity_Heteroginity.ipynb
-│   └── Trees Dataset.csv
+│   ├── Dataset/
+│   │   └── Trees Dataset.csv
 │
 ├── Assignment 2/
 │   ├── Images Book1 and 2/
